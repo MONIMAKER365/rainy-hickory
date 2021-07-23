@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m John'
     content: |
-      Hi im John and this is what I do when im bored  
+      And this is what i do whenever im bored 
   - section_id: about
     type: section_content
     title: About
