@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: 'Hi, I''m John'
     content: |
       Hi im John and this is what I do when im bored  
   - section_id: about
