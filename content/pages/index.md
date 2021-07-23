@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Stackbit Work site
-  description: The preview of the Fresh theme
+  description: 'Sample of my creation from boredom, that turns in to hobby then make money '
   extra:
     - name: 'og:type'
       value: website
