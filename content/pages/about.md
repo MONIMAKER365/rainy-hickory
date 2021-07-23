@@ -33,7 +33,7 @@ layout: page
 ---
 ***
 
-**I just want to learn thats all , **
+I just want to learn thats all 
 
 > The world always seems brighter when you’ve just made something that wasn’t there before.
 >
