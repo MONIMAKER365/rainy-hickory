@@ -31,10 +31,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
-
-
-> The world always seems brighter when you’ve just made something that wasn’t there before.
+> What doesnt kill you makes you , Stranger
 >
-> "Neil Gaiman"
+> "Joker"
 
 *Thank You for reading!*
