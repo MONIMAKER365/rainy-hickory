@@ -10,9 +10,12 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >
-      * I like to learn new skills so that i can improve my self in diffirent
-      field . *
+    content: >+
+      *   I'm not a Developer or Software engineer wish i was , I'm just a
+      nobody who wants to learn.
+
+      *   I'm a team player , but most of the time i like being alone .
+
     actions:
       - label: Contact Me
         url: /contact
